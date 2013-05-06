@@ -1,0 +1,4 @@
+SmiteCraft
+==========
+
+SmiteCraft a mod!
